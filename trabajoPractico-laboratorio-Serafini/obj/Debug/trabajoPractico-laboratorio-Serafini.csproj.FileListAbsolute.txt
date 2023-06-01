@@ -1,0 +1,11 @@
+C:\Users\franc\source\repos\trabajoPractico-laboratorio-Serafini\bin\Debug\trabajoPractico-laboratorio-Serafini.exe.config
+C:\Users\franc\source\repos\trabajoPractico-laboratorio-Serafini\bin\Debug\trabajoPractico-laboratorio-Serafini.exe
+C:\Users\franc\source\repos\trabajoPractico-laboratorio-Serafini\bin\Debug\trabajoPractico-laboratorio-Serafini.pdb
+C:\Users\franc\source\repos\trabajoPractico-laboratorio-Serafini\obj\Debug\trabajoPractico-laboratorio-Serafini.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\trabajoPractico-laboratorio-Serafini\obj\Debug\trabajoPractico-laboratorio-Serafini.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\source\repos\trabajoPractico-laboratorio-Serafini\obj\Debug\trabajoPractico_laboratorio_Serafini.Form1.resources
+C:\Users\franc\source\repos\trabajoPractico-laboratorio-Serafini\obj\Debug\trabajoPractico_laboratorio_Serafini.Properties.Resources.resources
+C:\Users\franc\source\repos\trabajoPractico-laboratorio-Serafini\obj\Debug\trabajoPractico-laboratorio-Serafini.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\trabajoPractico-laboratorio-Serafini\obj\Debug\trabajoPractico-laboratorio-Serafini.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\trabajoPractico-laboratorio-Serafini\obj\Debug\trabajoPractico-laboratorio-Serafini.exe
+C:\Users\franc\source\repos\trabajoPractico-laboratorio-Serafini\obj\Debug\trabajoPractico-laboratorio-Serafini.pdb
